@@ -2,7 +2,8 @@
 
 # Scanner de portas
 
-Um scanner de portas que testa 20 portas mais usadas na internet feito em python
+Um scanner de portas que testa 20 portas mais usadas na internet feito em python.
+O projeto usa * *multiprocessing* * para deixar o teste entre várias portas mais rápido e logo em seguida printa na tela se cada porta está aberta ou fechada
 ## Como usar:
 
 1. Clone o repositório
