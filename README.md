@@ -1,3 +1,4 @@
+![](https://github.com/GuilhermeAranega/scanner-de-portas/blob/main/public/scanner.gif)
 
 # Scanner de portas
 
